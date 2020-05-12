@@ -1,7 +1,7 @@
-# Foxbone.github.io
-# Austin Fox - This is a website page created for "CSC-180 Technology ans Dis/ability."
-# 5/12/20
-# CSC-180 S. Dexter S20
+Foxbone.github.io
+Austin Fox - This is a website page created for "CSC-180 Technology ans Dis/ability."
+5/12/20
+CSC-180 S. Dexter S20
 
 My Github user page is at: 
 https://github.com/Foxbone/
